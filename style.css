@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    padding:30px;
+}
+.fdelivery{
+    color: #F94A3D;  
+font-size: 30px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 28px;
+
+}
+
+.navigation>li{
+    
+    color: #212244;
+    margin: 5px;
+    font-size: 16px;
+    font-family: Poppins;
+     font-weight: 400;
+
+}
+.search>.search-div>input{
+    border:none;
+    background-color: transparent;
+    height: 45px;
+}
+.icons>.icon{
+    Width:15.22px;
+    Height:15.22px;
+    Top:38px;
+    Left:1543.7px;
+}
+.button>.btn{
+    background-color: #F94A3D;
+    border-radius: 10px;
+    Width:109px;
+    font-family: Poppins;
+     Height:40px;      
+     Weight:400;
+     Size:16px
+
+}
+.Information{
+    margin-left: 15%;
+}
+
+.info>.p1{
+      color:#F94A3D;
+      font-family: Poppins;
+      font-size: 18px;
+      margin-top: 50%;
+}
+.info>.p3{
+    color:#69697B;
+    font-size: 15px;
+}
+.Information>.info>.button{
+    background-color:#F94A3D;
+    border-radius: 16px;
+    width: 45%;
+    height: 35px;
+    color:white;
+    border: none;
+}
+.Information{
+    width: 30%;
+}
+.table{
+    width:10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Poppins;
+}
+.td{
+    padding: 0px 5px;
+    margin: 2px 5px;
+    justify-content: space-between;
+}
+.td>.row1-text,.text{
+    color:#212244;
+}
+.category-section>.head{
+   align-items: center;
+   margin-top: 20%;
+   margin-left: 35%;
+}
+.category-section>.nav:hover{
+    color:#F94A3D ;
+    align-items: center;
+    justify-content: center;
+
+}
+.my-list{
+    white-space:nowrap;
+    margin-top: 10%;
+    display: inline-flex;
+}
+.my-list>img{
+    padding-inline: 10px;
+}
+.my-card{
+    width: 338px; 
+}
+.btn{
+     
+}
